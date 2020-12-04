@@ -1,0 +1,9 @@
+<package>
+  <description brief="Transitive dependency for the build_tests/cmake/deps_target">
+      This package is dummy library to be used as a dependency in deps_target_dependency,
+      to test the DEPS_TARGET functionality of base/cmake
+  </description>
+  <author>Gabriel Arjones/arjones@arjones.com</author>
+  <license>Public Domain</license>
+  <depend package="base/cmake" />
+</package>
