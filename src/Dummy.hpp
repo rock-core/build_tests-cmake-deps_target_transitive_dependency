@@ -13,3 +13,5 @@ namespace deps_target_transitive_dependency
             void welcome();
     };
 }
+
+#endif
